@@ -66,6 +66,7 @@ and create a validating schema for that result
 ## Note
 
 <p align="left">
-  Do it and Submit all answers in the form of a Repository URL
+  - Do it and Submit all answers in the form of a Repository URL<br>
+  - QA Manual doesn't have to do automation tests, but if you can do it it will be a plus
 </p>
 
