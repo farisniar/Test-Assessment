@@ -23,10 +23,6 @@
 <p align="left">
   Suppose you are in a group of 5 people and in that group there is 1 stick of wood, <br> and you are given the task to stand on the wooden stick, explain how the wooden stick did not break after 5 people stepped on it?
 </p>
-<br>
-<p align="left">
-  There are 3 lights A, B, and C. Lamp A lights up every 8 minutes, lamp B lights up every 10 minutes,<br> and lamp C lights up every 6 minutes. The three lights are lights up     together at 8:10. When all the lights will light up together again?
-</p>
 
 ## API Test : 20
 
