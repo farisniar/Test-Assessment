@@ -31,7 +31,7 @@
 ## API Test : 20
 
 <p align="left">
-  1. Access this public API, https://gorest.co.in/public-api/users <br>
+  Access this public API, https://gorest.co.in/public-api/users <br>
 </p>
 
 ```
